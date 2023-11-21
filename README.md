@@ -4,30 +4,31 @@ My learning path with large language model (https://en.wikipedia.org/wiki/Large_
 
 ## Refreshing My Knowledge About Deep Learning
 
-Gradient Descent, Step-by-Step
-https://www.youtube.com/watch?v=sDv4f4s2SB8&ab_channel=StatQuestwithJoshStarmer
+### Videos
 
-Neural Networks Pt. 1: Inside the Black Box
-https://www.youtube.com/watch?v=CqOfi41LfDw&ab_channel=StatQuestwithJoshStarmer
+* [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8&ab_channel=StatQuestwithJoshStarmer)
 
-Neural Networks Pt. 2: Backpropagation Main Ideas
-https://www.youtube.com/watch?v=IN2XmBhILt4&ab_channel=StatQuestwithJoshStarmer
 
-Neural Networks Pt. 3: ReLU In Action!!! (Have not watched it yet)
-https://www.youtube.com/watch?v=68BZ5f7P94E&t=130s&ab_channel=StatQuestwithJoshStarmer
+* [Neural Networks Pt. 1: Inside the Black Box](https://www.youtube.com/watch?v=CqOfi41LfDw&ab_channel=StatQuestwithJoshStarmer)
 
-## Large Language Model
+* [Neural Networks Pt. 2: Backpropagation Main Ideas](https://www.youtube.com/watch?v=IN2XmBhILt4&ab_channel=StatQuestwithJoshStarmer)
 
-What Are Word and Sentence Embeddings?
-https://www.youtube.com/watch?v=A8HEPBdKVMA&ab_channel=Cohere
+* [Neural Networks Pt. 3: ReLU In Action!!! (Have not watched it yet)](https://www.youtube.com/watch?v=68BZ5f7P94E&t=130s&ab_channel=StatQuestwithJoshStarmer)
 
-What are Transformer Models and How do they Work?
-https://www.youtube.com/watch?v=tsbRdJbJi9U&ab_channel=Cohere
+* [What Are Word and Sentence Embeddings?](https://www.youtube.com/watch?v=A8HEPBdKVMA&ab_channel=Cohere)
 
-Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! (Have not finished watching it yet)
-https://www.youtube.com/watch?v=zxQyTK8quyY&ab_channel=StatQuestwithJoshStarmer
+* [What are Transformer Models and How do they Work?](https://www.youtube.com/watch?v=tsbRdJbJi9U&ab_channel=Cohere)
 
-https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz
+* [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! (Have not finished watching it yet)](https://www.youtube.com/watch?v=zxQyTK8quyY&ab_channel=StatQuestwithJoshStarmer)
 
-## Hugging Face
-https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+### Readings
+
+* An Overview of Large Language Models (LLMs)(https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz)
+
+* Open LLM Leaderboard(https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
+## Playing With LLM
+
+### Llama 2
+
+* [Llama 2 Demo Apps](https://github.com/facebookresearch/llama-recipes/tree/main/demo_apps)
