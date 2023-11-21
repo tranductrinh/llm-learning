@@ -1,6 +1,6 @@
 # llm-learning
 
-My learning path with [large language model](https://en.wikipedia.org/wiki/Large_language_model)
+Few years ago, I took [Machine Learning](https://www.coursera.org/learn/machine-learning) and [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), now most of the knowledge is already gone. I want to revise it and start learning about [large language model](https://en.wikipedia.org/wiki/Large_language_model).
 
 ## Refreshing My Knowledge About Deep Learning
 
