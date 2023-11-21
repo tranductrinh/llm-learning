@@ -1,6 +1,6 @@
 # llm-learning
 
-My learning path with large language model (https://en.wikipedia.org/wiki/Large_language_model)
+My learning path with [large language model](https://en.wikipedia.org/wiki/Large_language_model)
 
 ## Refreshing My Knowledge About Deep Learning
 
@@ -23,9 +23,9 @@ My learning path with large language model (https://en.wikipedia.org/wiki/Large_
 
 ### Readings
 
-* An Overview of Large Language Models (LLMs)(https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz)
+* [An Overview of Large Language Models (LLMs)](https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz)
 
-* Open LLM Leaderboard(https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+* [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ## Playing With LLM
 
