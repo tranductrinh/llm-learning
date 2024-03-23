@@ -1,4 +1,5 @@
 Gradient Descent: Phương pháp đạo hàm
+
 Linear Regression: Hồi quy tuyến tính
 
 Ứng dụng đạo hàm để khảo sát tính biên thiên của hàm số
